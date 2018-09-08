@@ -114,10 +114,10 @@ footer p a {
 }
 
 @media only screen and (min-width: 280px) and (max-width: 480px) {
-  #navbar {position: absolute; top: 0%; height: 30%; width: 100%; border-bottom: 3px solid gray;}
+  #navbar {position: absolute; top: 0%; height: 200px; width: 100%; border-bottom: 3px solid gray;}
   #navbar header p {font-size: 15px; padding: 1% 0% 1% 15%;}
   #navbar section a {padding: 1% 5% 1% 15%; font-size: 12px;}
-  #main-doc {margin: 50% 0% 0% 0%;}
+  #main-doc {margin: 220px 0px 0px 0px;}
   #main-doc .main-section {margin-top: 1%; padding: 1% 2% 1% 2%;}
   #main-doc .main-section header {font-size: 14px;}
   #main-doc .main-section article p {font-size: 12px;}
